@@ -1,5 +1,13 @@
-### Oi! O Meu nome é Daniel!  👋
-- 🌱  Ciência da Computação(UFS)
+### Hi! My name is Daniel!  👋
+- 🌱  Computer Science(UFS)
+
+<div>
+  <a href="https://github.com/D4nielsc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4nielsc&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nielsc&layout=compact&langs_count=16&theme=algolia"/>
+
+</div>
+
 <div>
 
   <a href="https://www.instagram.com/d4nielsc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
