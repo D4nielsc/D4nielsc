@@ -1,5 +1,5 @@
 ### Hi! My name is Daniel!  👋
-- 🌱  Computer Science(UFS)
+- 🌱 Computer Science(UFS)
 
 <div>
   <a href="https://github.com/D4nielsc">
