@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/D4nielsc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4nielsc&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nielsc&layout=compact&langs_count=16&theme=algolia"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=D4nielsc&show_icons=true&theme=algolia&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nielsc&layout=compact&langs_count=16&theme=algolia"/>
 
 </div>
   
